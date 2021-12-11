@@ -9,3 +9,9 @@ Kelompok E13
 |05111940000164|Ahmad Aunul Ma`bud|
 
 # Pembagian Tugas
+
+|Nama|Pengerjaan|
+|:------------:|:---------------------:|
+|Fairuz Hasna Rofifah|Topologi GNS3, Topologi CPT|
+|Ahmad Aunul Ma`bud|Topologi GNS3, Pembagian Subnet GNS3|
+|Ihsannur Rahman Qalbi|Routing CPT,Pembagian Subnet CPT|
