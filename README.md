@@ -606,3 +606,6 @@ date +%T -s "05:10:10"
 |Fairuz Hasna Rofifah|Topologi GNS3, Topologi CPT|
 |Ahmad Aunul Ma`bud|Topologi GNS3, Pembagian Subnet GNS3|
 |Ihsannur Rahman Qalbi|Routing CPT,Pembagian Subnet CPT|
+
+## Kendala:
+* Kurang teliti (typo) ketika memberikan ip network configuration sehingga harus debug cukup lama
