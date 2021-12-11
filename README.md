@@ -603,9 +603,10 @@ date +%T -s "05:10:10"
 
 |Nama|Pengerjaan|
 |:------------:|:---------------------:|
-|Fairuz Hasna Rofifah|Topologi GNS3, Topologi CPT|
-|Ahmad Aunul Ma`bud|Topologi GNS3, Pembagian Subnet GNS3|
-|Ihsannur Rahman Qalbi|Routing CPT,Pembagian Subnet CPT|
+|Fairuz Hasna Rofifah|No. 1-2|
+|Ahmad Aunul Ma`bud|No. 3-4|
+|Ihsannur Rahman Qalbi|No. 5-6|
 
 ## Kendala:
 * Kurang teliti (typo) ketika memberikan ip network configuration sehingga harus debug cukup lama
+* Bingung testing nomor 6 karena tidak ada di modul.
